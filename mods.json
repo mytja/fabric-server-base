@@ -82,5 +82,10 @@
         "id": "cUhi3iB2",
         "filename": "tabtps-fabric.jar",
         "version": "1.3.24"
+    },
+    {
+        "source": "modrinth",
+        "id": "M7MroYMU",
+        "filename": "multiworldborders-fix-fabric.jar"
     }
 ]

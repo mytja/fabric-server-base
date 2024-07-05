@@ -23,6 +23,7 @@ Until now, I had to redownload EVERY. SINGLE. MOD when I wanted to update the ve
 - [Lithium](https://github.com/caffeinemc/lithium-fabric) by jellysquid3, 2No2Name and CaffeineMC team
 - [LuckPerms](https://github.com/LuckPerms/LuckPerms) by lucko and the LuckPerms team
 - [Memory Leak Fix](https://github.com/fxmorin/memoryLeakFix) by FX/FxMorin
+- [Multi World Borders](https://github.com/PotatoPresident/worldborderfixer) by Potatoboy9999/PotatoPresident
 - [spark](https://github.com/lucko/spark) by lucko
 - [TabTPS](https://github.com/jpenilla/TabTPS) by jpenilla
 
