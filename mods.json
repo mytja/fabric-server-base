@@ -86,6 +86,7 @@
     {
         "source": "modrinth",
         "id": "M7MroYMU",
-        "filename": "multiworldborders-fix-fabric.jar"
+        "filename": "multiworldborders-fix-fabric.jar",
+        "version": "1.6.4"
     }
 ]
