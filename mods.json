@@ -92,6 +92,7 @@
     {
         "source": "modrinth",
         "id": "1u6JkXh5",
-        "filename": "worldedit-fabric.jar"
+        "filename": "worldedit-fabric.jar",
+        "version": "7.3.4-beta-01"
     }
 ]
