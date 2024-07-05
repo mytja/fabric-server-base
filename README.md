@@ -26,6 +26,7 @@ Until now, I had to redownload EVERY. SINGLE. MOD when I wanted to update the ve
 - [Multi World Borders](https://github.com/PotatoPresident/worldborderfixer) by Potatoboy9999/PotatoPresident
 - [spark](https://github.com/lucko/spark) by lucko
 - [TabTPS](https://github.com/jpenilla/TabTPS) by jpenilla
+- [WorldEdit](https://github.com/EngineHub/WorldEdit/) by EngineHub
 
 Have I credited somebody wrong? Perhaps I missed somebody? Please open an issue and I'll fix it promptly.
 

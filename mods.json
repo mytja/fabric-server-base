@@ -88,5 +88,10 @@
         "id": "M7MroYMU",
         "filename": "multiworldborders-fix-fabric.jar",
         "version": "1.6.4"
+    },
+    {
+        "source": "modrinth",
+        "id": "1u6JkXh5",
+        "filename": "worldedit-fabric.jar"
     }
 ]
