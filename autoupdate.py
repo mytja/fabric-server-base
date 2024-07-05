@@ -1,3 +1,5 @@
+import os.path
+
 import requests
 import json
 
@@ -34,6 +36,9 @@ for mod in mods:
         continue
 
     if mod.get("version") is None:
+        mod["version"] = ""
+
+    if not os.path.exists(f"mods/{mod['filename']}"):
         mod["version"] = ""
 
     if mod["source"] == "modrinth":
