@@ -7,7 +7,7 @@ import json
 def download_file(url, filename):
     with requests.get(url, stream=True) as req:
         req.raise_for_status()
-        with open(filename, "wb+") as file:
+        with open(filename, "wb") as file:
             for chunk in req.iter_content(chunk_size=8192):
                 file.write(chunk)
 
