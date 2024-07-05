@@ -27,3 +27,6 @@ Until now, I had to redownload EVERY. SINGLE. MOD when I wanted to update the ve
 - [TabTPS](https://github.com/jpenilla/TabTPS) by jpenilla
 
 Have I credited somebody wrong? Perhaps I missed somebody? Please open an issue and I'll fix it promptly.
+
+# Special configs
+EasyAuth requires a MySQL database. Make sure NOT to open the database to the internet.
