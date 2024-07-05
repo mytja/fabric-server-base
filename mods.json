@@ -1,0 +1,86 @@
+[
+    {
+        "source": "modrinth",
+        "id": "sml2FMaA",
+        "filename": "antixray-fabric.jar",
+        "version": "1.4.2+1.21"
+    },
+    {
+        "source": "modrinth",
+        "id": "aZj58GfX",
+        "filename": "easyauth-fabric.jar",
+        "version": "3.0.25"
+    },
+    {
+        "source": "modrinth",
+        "id": "LODybUe5",
+        "filename": "easywhitelist-fabric.jar",
+        "version": "1.0.1"
+    },
+    {
+        "source": "modrinth",
+        "id": "P7dR8mSH",
+        "filename": "fabric-api.jar",
+        "version": "0.100.4+1.21"
+    },
+    {
+        "source": "modrinth",
+        "id": "Ha28R6CL",
+        "filename": "fabric-language-kotlin.jar",
+        "version": "1.11.0+kotlin.2.0.0"
+    },
+    {
+        "source": "modrinth",
+        "id": "uXXizFIs",
+        "filename": "ferritecore-fabric.jar",
+        "version": "7.0.0"
+    },
+    {
+        "source": "modrinth",
+        "id": "yn9u3ypm",
+        "filename": "graves-fabric.jar",
+        "version": "3.4.1+1.21"
+    },
+    {
+        "source": "modrinth",
+        "id": "jrDKjZP7",
+        "filename": "invview-fabric.jar",
+        "version": "1.4.15"
+    },
+    {
+        "source": "modrinth",
+        "id": "LVN9ygNV",
+        "filename": "ledger-fabric.jar",
+        "version": "1.3.4"
+    },
+    {
+        "source": "modrinth",
+        "id": "gvQqBUqZ",
+        "filename": "lithium-fabric.jar",
+        "version": "mc1.21-0.12.7"
+    },
+    {
+        "source": "modrinth",
+        "id": "Vebnzrzj",
+        "filename": "luckperms-fabric.jar",
+        "version": "v5.4.133-fabric"
+    },
+    {
+        "source": "modrinth",
+        "id": "NRjRiSSD",
+        "filename": "memoryleakfix-fabric.jar",
+        "version": ""
+    },
+    {
+        "source": "modrinth",
+        "id": "l6YH9Als",
+        "filename": "spark-fabric.jar",
+        "version": "1.10.73-fabric"
+    },
+    {
+        "source": "modrinth",
+        "id": "cUhi3iB2",
+        "filename": "tabtps-fabric.jar",
+        "version": "1.3.24"
+    }
+]

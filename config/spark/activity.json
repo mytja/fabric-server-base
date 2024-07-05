@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "mytjadev",
+      "uniqueId": "9de164af-0b6e-4691-af64-f1fc025819d2"
+    },
+    "time": 1720042870182,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9jCAmLlWzU"
+    }
+  }
+]

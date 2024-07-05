@@ -1,0 +1,8 @@
+world/
+.fabric/
+mods/EasyAuth/
+mods/luckperms/
+
+*.sqlite
+*.sqlite3
+*.db
