@@ -27,7 +27,7 @@
         "source": "modrinth",
         "id": "Ha28R6CL",
         "filename": "fabric-language-kotlin.jar",
-        "version": "1.11.0+kotlin.2.0.0"
+        "version": "1.12.0+kotlin.2.0.10"
     },
     {
         "source": "modrinth",
