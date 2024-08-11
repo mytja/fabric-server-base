@@ -21,7 +21,7 @@
         "source": "modrinth",
         "id": "P7dR8mSH",
         "filename": "fabric-api.jar",
-        "version": "0.102.0+1.21.1"
+        "version": "0.102.1+1.21.1"
     },
     {
         "source": "modrinth",
@@ -57,7 +57,7 @@
         "source": "modrinth",
         "id": "gvQqBUqZ",
         "filename": "lithium-fabric.jar",
-        "version": "mc1.21-0.12.7"
+        "version": "mc1.21.1-0.13.0"
     },
     {
         "source": "modrinth",
