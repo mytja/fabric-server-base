@@ -3,7 +3,7 @@
         "source": "modrinth",
         "id": "sml2FMaA",
         "filename": "antixray-fabric.jar",
-        "version": "1.4.4+1.21"
+        "version": "1.4.6+1.21.2-rc2"
     },
     {
         "source": "modrinth",
@@ -21,13 +21,13 @@
         "source": "modrinth",
         "id": "P7dR8mSH",
         "filename": "fabric-api.jar",
-        "version": "0.106.0+1.21.2"
+        "version": "0.106.1+1.21.2"
     },
     {
         "source": "modrinth",
         "id": "Ha28R6CL",
         "filename": "fabric-language-kotlin.jar",
-        "version": "1.12.0+kotlin.2.0.10"
+        "version": "1.12.3+kotlin.2.0.21"
     },
     {
         "source": "modrinth",
@@ -39,7 +39,7 @@
         "source": "modrinth",
         "id": "yn9u3ypm",
         "filename": "graves-fabric.jar",
-        "version": "3.4.3+1.21"
+        "version": "3.5.0+1.21.2"
     },
     {
         "source": "modrinth",
@@ -75,7 +75,7 @@
         "source": "modrinth",
         "id": "l6YH9Als",
         "filename": "spark-fabric.jar",
-        "version": "1.10.97-fabric"
+        "version": "1.10.113-fabric"
     },
     {
         "source": "modrinth",
