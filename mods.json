@@ -3,7 +3,7 @@
         "source": "modrinth",
         "id": "sml2FMaA",
         "filename": "antixray-fabric.jar",
-        "version": "1.4.6+1.21.2-rc2"
+        "version": "1.4.6+1.21.3"
     },
     {
         "source": "modrinth",
@@ -21,7 +21,7 @@
         "source": "modrinth",
         "id": "P7dR8mSH",
         "filename": "fabric-api.jar",
-        "version": "0.106.1+1.21.2"
+        "version": "0.106.1+1.21.3"
     },
     {
         "source": "modrinth",
