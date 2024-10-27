@@ -9,7 +9,7 @@
         "source": "modrinth",
         "id": "aZj58GfX",
         "filename": "easyauth-fabric.jar",
-        "version": "3.0.25"
+        "version": "3.0.27"
     },
     {
         "source": "modrinth",
@@ -33,7 +33,7 @@
         "source": "modrinth",
         "id": "uXXizFIs",
         "filename": "ferritecore-fabric.jar",
-        "version": "7.0.0"
+        "version": "7.1.0-hotfix-fabric"
     },
     {
         "source": "modrinth",
