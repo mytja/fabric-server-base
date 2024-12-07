@@ -63,7 +63,7 @@
         "source": "modrinth",
         "id": "Vebnzrzj",
         "filename": "luckperms-fabric.jar",
-        "version": "v5.4.145-fabric"
+        "version": "v5.4.150-fabric"
     },
     {
         "source": "modrinth",
@@ -75,7 +75,7 @@
         "source": "modrinth",
         "id": "l6YH9Als",
         "filename": "spark-fabric.jar",
-        "version": "1.10.120-fabric"
+        "version": "1.10.121-fabric"
     },
     {
         "source": "modrinth",
