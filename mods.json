@@ -3,7 +3,7 @@
         "source": "modrinth",
         "id": "sml2FMaA",
         "filename": "antixray-fabric.jar",
-        "version": "1.4.6+1.21.3"
+        "version": "1.4.7+1.21.4"
     },
     {
         "source": "modrinth",
@@ -57,7 +57,7 @@
         "source": "modrinth",
         "id": "gvQqBUqZ",
         "filename": "lithium-fabric.jar",
-        "version": "mc1.21.4-0.14.3"
+        "version": "mc1.21.4-0.14.3-fabric"
     },
     {
         "source": "modrinth",
