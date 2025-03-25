@@ -9,7 +9,7 @@
         "source": "modrinth",
         "id": "aZj58GfX",
         "filename": "easyauth-fabric.jar",
-        "version": "3.0.27"
+        "version": "3.1.11"
     },
     {
         "source": "modrinth",
@@ -21,13 +21,13 @@
         "source": "modrinth",
         "id": "P7dR8mSH",
         "filename": "fabric-api.jar",
-        "version": "0.119.4+1.21.5"
+        "version": "0.119.5+1.21.5"
     },
     {
         "source": "modrinth",
         "id": "Ha28R6CL",
         "filename": "fabric-language-kotlin.jar",
-        "version": "1.13.0+kotlin.2.1.0"
+        "version": "1.13.2+kotlin.2.1.20"
     },
     {
         "source": "modrinth",
@@ -39,7 +39,7 @@
         "source": "modrinth",
         "id": "yn9u3ypm",
         "filename": "graves-fabric.jar",
-        "version": "3.7.0+1.21.5"
+        "version": "3.7.1+1.21.5"
     },
     {
         "source": "modrinth",
@@ -57,7 +57,7 @@
         "source": "modrinth",
         "id": "gvQqBUqZ",
         "filename": "lithium-fabric.jar",
-        "version": "mc1.21.4-0.14.3-fabric"
+        "version": "mc1.21.5-0.16.0-fabric"
     },
     {
         "source": "modrinth",
