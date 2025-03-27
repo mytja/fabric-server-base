@@ -3,7 +3,7 @@
         "source": "modrinth",
         "id": "sml2FMaA",
         "filename": "antixray-fabric.jar",
-        "version": "1.4.9+1.21.5-pre2"
+        "version": "1.4.9+1.21.5"
     },
     {
         "source": "modrinth",
@@ -63,7 +63,7 @@
         "source": "modrinth",
         "id": "Vebnzrzj",
         "filename": "luckperms-fabric.jar",
-        "version": "v5.4.150-fabric"
+        "version": "v5.4.158-fabric"
     },
     {
         "source": "modrinth",
@@ -75,7 +75,7 @@
         "source": "modrinth",
         "id": "l6YH9Als",
         "filename": "spark-fabric.jar",
-        "version": "1.10.121-fabric"
+        "version": "1.10.128-fabric"
     },
     {
         "source": "modrinth",
