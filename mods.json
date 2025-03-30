@@ -33,7 +33,7 @@
         "source": "modrinth",
         "id": "uXXizFIs",
         "filename": "ferritecore-fabric.jar",
-        "version": "7.1.1-fabric"
+        "version": "8.0.0-fabric"
     },
     {
         "source": "modrinth",
@@ -51,7 +51,7 @@
         "source": "modrinth",
         "id": "LVN9ygNV",
         "filename": "ledger-fabric.jar",
-        "version": "1.3.7"
+        "version": "1.3.8"
     },
     {
         "source": "modrinth",
